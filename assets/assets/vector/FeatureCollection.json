@@ -1,0 +1,25 @@
+{
+"type": "FeatureCollection",
+"name": "ProjisoidunPalstanKiinteistotunnuksenSijaintitiedot",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3067" } },
+"features": [
+{ "type": "Feature", "id": 387880708, "properties": { "kiinteistotunnus": "04903403343001", "kiinteistotunnuksenEsitysmuoto": "49-34-334-3001", "suhdePeruskiinteistoon": 102 }, "geometry": { "type": "Point", "coordinates": [ 369677.298, 6670527.35 ] } },
+{ "type": "Feature", "id": 391732128, "properties": { "kiinteistotunnus": "04901000653001", "kiinteistotunnuksenEsitysmuoto": "49-10-65-3001", "suhdePeruskiinteistoon": 101 }, "geometry": { "type": "Point", "coordinates": [ 379583.248, 6673053.614 ] } },
+{ "type": "Feature", "id": 391841162, "properties": { "kiinteistotunnus": "04903403343002", "kiinteistotunnuksenEsitysmuoto": "49-34-334-3002", "suhdePeruskiinteistoon": 102 }, "geometry": { "type": "Point", "coordinates": [ 369691.725, 6670505.88 ] } },
+{ "type": "Feature", "id": 392232844, "properties": { "kiinteistotunnus": "04903403343003", "kiinteistotunnuksenEsitysmuoto": "49-34-334-3003", "suhdePeruskiinteistoon": 102 }, "geometry": { "type": "Point", "coordinates": [ 369724.613, 6670480.138 ] } },
+{ "type": "Feature", "id": 392413792, "properties": { "kiinteistotunnus": "29700801073001", "kiinteistotunnuksenEsitysmuoto": "297-8-107-3001", "suhdePeruskiinteistoon": 101 }, "geometry": { "type": "Point", "coordinates": [ 534305.037, 6972899.016 ] } },
+{ "type": "Feature", "id": 392613204, "properties": { "kiinteistotunnus": "83711150013001", "kiinteistotunnuksenEsitysmuoto": "837-111-5001-3001", "suhdePeruskiinteistoon": 101 }, "geometry": { "type": "Point", "coordinates": [ 327970.177, 6822547.323 ] } },
+{ "type": "Feature", "id": 392704092, "properties": { "kiinteistotunnus": "83711605623001", "kiinteistotunnuksenEsitysmuoto": "837-116-562-3001", "suhdePeruskiinteistoon": 101 }, "geometry": { "type": "Point", "coordinates": [ 328923.257, 6822762.965 ] } },
+{ "type": "Feature", "id": 392704105, "properties": { "kiinteistotunnus": "83711605623002", "kiinteistotunnuksenEsitysmuoto": "837-116-562-3002", "suhdePeruskiinteistoon": 101 }, "geometry": { "type": "Point", "coordinates": [ 328923.117, 6822699.917 ] } },
+{ "type": "Feature", "id": 395175480, "properties": { "kiinteistotunnus": "04903403343004", "kiinteistotunnuksenEsitysmuoto": "49-34-334-3004", "suhdePeruskiinteistoon": 102 }, "geometry": { "type": "Point", "coordinates": [ 369952.617, 6670247.15 ] } },
+{ "type": "Feature", "id": 395197477, "properties": { "kiinteistotunnus": "04903403343005", "kiinteistotunnuksenEsitysmuoto": "49-34-334-3005", "suhdePeruskiinteistoon": 102 }, "geometry": { "type": "Point", "coordinates": [ 369918.283, 6670226.454 ] } },
+{ "type": "Feature", "id": 400378589, "properties": { "kiinteistotunnus": "20500200953001", "kiinteistotunnuksenEsitysmuoto": "205-2-95-3001", "suhdePeruskiinteistoon": 101 }, "geometry": { "type": "Point", "coordinates": [ 535390.602, 7121978.463 ] } },
+{ "type": "Feature", "id": 400378592, "properties": { "kiinteistotunnus": "20500200953002", "kiinteistotunnuksenEsitysmuoto": "205-2-95-3002", "suhdePeruskiinteistoon": 102 }, "geometry": { "type": "Point", "coordinates": [ 535372.722, 7122000.518 ] } },
+{ "type": "Feature", "id": 401893373, "properties": { "kiinteistotunnus": "04903403343006", "kiinteistotunnuksenEsitysmuoto": "49-34-334-3006", "suhdePeruskiinteistoon": 102 }, "geometry": { "type": "Point", "coordinates": [ 369755.977, 6670345.144 ] } },
+{ "type": "Feature", "id": 404806903, "properties": { "kiinteistotunnus": "04903403343007", "kiinteistotunnuksenEsitysmuoto": "49-34-334-3007", "suhdePeruskiinteistoon": 102 }, "geometry": { "type": "Point", "coordinates": [ 369720.775, 6670387.098 ] } },
+{ "type": "Feature", "id": 405439722, "properties": { "kiinteistotunnus": "41801510000004", "kiinteistotunnuksenEsitysmuoto": "418-15-1000-4", "suhdePeruskiinteistoon": 101 }, "geometry": { "type": "Point", "coordinates": [ 328667.951, 6807565.481 ] } },
+{ "type": "Feature", "id": 407333332, "properties": { "kiinteistotunnus": "04901000143001", "kiinteistotunnuksenEsitysmuoto": "49-10-14-3001", "suhdePeruskiinteistoon": 101 }, "geometry": { "type": "Point", "coordinates": [ 379410.008, 6673361.323 ] } },
+{ "type": "Feature", "id": 422657652, "properties": { "kiinteistotunnus": "09206499083001", "kiinteistotunnuksenEsitysmuoto": "92-64-9908-3001", "suhdePeruskiinteistoon": 101 }, "geometry": { "type": "Point", "coordinates": [ 393120.69, 6683986.372 ] } },
+{ "type": "Feature", "id": 424896635, "properties": { "kiinteistotunnus": "04902101843001", "kiinteistotunnuksenEsitysmuoto": "49-21-184-3001", "suhdePeruskiinteistoon": 101 }, "geometry": { "type": "Point", "coordinates": [ 374989.468, 6673918.861 ] } }
+]
+,"rekisteritilannepvm":"2024-06-20","rekisteritilanneAjantasalla":true,"timeStamp":"2024-06-20T00:59:27.987757900Z"}
